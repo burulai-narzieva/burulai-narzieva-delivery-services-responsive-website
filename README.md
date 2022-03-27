@@ -1,8 +1,8 @@
 # Delivery Services Responsive Website 🛵
 
-## [Link for deployment project] (https://burulai-narzieva.github.io/burulai-narzieva-delivery-services-responsive-website/)
+## [Link for deployment project](https://burulai-narzieva.github.io/burulai-narzieva-delivery-services-responsive-website/)
 
-## Delivery Services Responsive Website
+### Delivery Services Responsive Website
 
 - Website Delivery, using HTML, Sass and JavaScript.
 
