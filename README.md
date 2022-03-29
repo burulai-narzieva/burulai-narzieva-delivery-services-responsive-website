@@ -14,4 +14,10 @@
 
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## Desktop version of website ![Delivery website](/preview.png)
+## Desktop version of website
+
+![Delivery website](/preview.png)
+
+## Mobile version of website
+
+![Delivery website](/preview-mobile-version.png)
