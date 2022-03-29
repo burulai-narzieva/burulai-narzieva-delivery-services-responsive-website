@@ -20,4 +20,4 @@
 
 ## Mobile version of website
 
-![Delivery website](/preview-mobile-version.png)
+
